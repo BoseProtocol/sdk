@@ -1,0 +1,16 @@
+
+{
+  "name": "bose",
+  "version": "0.1.0",
+  "description": "Open-source VRM avatar creation toolkit by Project 89",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  }
+}
